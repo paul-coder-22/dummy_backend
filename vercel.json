@@ -10,15 +10,6 @@
     {
       "src": "/(.*)",
       "dest": "/"
-    },
-    {
-      "src": "/posts",
-      "dest": "/posts"
-    },
-
-    {
-      "src": "/posts/:id",
-      "dest": "/posts/:id"
     }
   ]
 }
